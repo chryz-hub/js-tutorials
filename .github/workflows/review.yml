@@ -12,5 +12,6 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: skip assign
-          reviewers: chryzcodez, Ukpebor
+          reviewers: chryzcodez, Ukpebor, jomefavourite
+          max-num-of-reviewers: 1
           
