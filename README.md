@@ -7,6 +7,7 @@ In order for us not to ignore your effort, please check well not to make a dupli
 
 ## Contents
 
+
 <details>
 <summary>
 <strong> <a href="https://github.com/chryzcodez/js-tutorials/tree/master/introduction">Introduction</a></strong>
