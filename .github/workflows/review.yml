@@ -13,5 +13,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: skip assign
           reviewers: chryzcodez, Ukpebor, jomefavourite
-          max-num-of-reviewers: 1
+          max-num-of-reviewers: 2
+          ready-comment: 'Ready for review :rocket:' 
+          merged-comment: 'It was merged. Thanks for your review :wink:' 
           
