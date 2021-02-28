@@ -6,3 +6,11 @@ first and our [code of conduct](https://github.com/chryz-hub/py-tutorials/blob/m
 In order for us not to ignore your effort, please check well not to make a duplicate of a PR(contribution)/ issue!
 
 ## Contents
+<details>
+<summary>
+<strong> <a href="https://github.com/chryzcodez/js-tutorials/tree/master/introduction">Introduction</a></strong>
+</summary>
+    <ul>
+       <li> <a href ="https://github.com/chryzcodez/js-tutorials/blob/master/introduction/Getting-you-prepared.md"> Getting you prepared</a></li>
+   </ul>
+</details>
