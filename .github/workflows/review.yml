@@ -10,5 +10,6 @@ jobs:
     steps:
       - uses: hkusu/review-assign-action@v1
         with:
-          assignees: ${{ github.actor }} # assign pull request author
-          reviewers: chryzcodez, Ukpebor # if draft, assigned when draft is released
+          skip assign: ${{ github.actor }} 
+          reviewers: chryzcodez, Ukpebor
+          max-num-of-reviewers: 2
