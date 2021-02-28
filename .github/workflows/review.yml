@@ -11,9 +11,9 @@ jobs:
       - uses: hkusu/review-assign-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          assignees: skip assign
-          reviewers: chryzcodez, Ukpebor, jomefavourite
-          max-num-of-reviewers: 2
+          assignees: 'chryzcodez'
+          reviewers: Ukpebor, jomefavourite
+          max-num-of-reviewers: 1
           ready-comment: 'Ready for review :rocket:' 
           merged-comment: 'It was merged. Thanks for your review :wink:' 
           
