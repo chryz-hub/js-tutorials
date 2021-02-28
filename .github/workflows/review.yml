@@ -11,6 +11,6 @@ jobs:
       - uses: hkusu/review-assign-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          assignees: ${{ github.actor }} 
+          assignees: skip assign
           reviewers: chryzcodez, Ukpebor
           
